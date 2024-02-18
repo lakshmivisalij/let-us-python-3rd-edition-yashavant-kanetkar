@@ -1,1 +1,1 @@
-# let-us-python-3rd-edition-yashavant-kanetkar
+# let-us-python-solutions-3rd-edition-yashavant-kanetkar
