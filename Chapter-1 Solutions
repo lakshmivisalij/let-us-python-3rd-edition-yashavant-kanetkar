@@ -1,0 +1,67 @@
+[A]
+
+(a) 5 fields in which Python is popularly used are -
+		1. System Programming
+		2. Game Programming
+		3. Rapid prototyping
+		4. Numeric and Scientific Programming
+		5. Internet Scripting
+
+(b) Event-driven programming is popularly used in GUI applications.
+
+(c) Python programs run unchanged on most platforms, hence called portable language.
+
+(d) 1. Functional programming - maths-like functions
+	2. Event-driven programming - GUI element based interaction
+	3. Procedural programming - Statements
+	4. OOP - Interaction of objects
+
+(e) Static Typing is not a feature of Python
+
+(f) 
+
+1 functional model
+
+Functional models represent a form independent blueprint of a product. An example is provided for using the functional basis to form a functional model.
+
+2 procedural model
+
+L-Systems, fractals, and generative modeling are procedural modeling techniques since they apply algorithms for producing scenes. The set of rules may either be embedded into the algorithm, configurable by parameters, or the set of rules is separate from the evaluation engine.
+
+3 object orient model
+
+Example. Shape, Circle, Rectangle and Triangle are all objects in this model. Circle has the attributes Center and Radius.
+
+4 event driven model
+
+Examples of events include: An HTML message has been received (web server) ... A loan application has been accepted/rejected (commercial businesses)
+
+
+[B]
+
+(a) True
+(b) true
+(c) True
+(d) True
+(e) False
+(f) True
+(g) True
+(h) false
+
+[C]
+
+a. Functional programming - maths-like functions
+b. Event-driven programming - GUI element based interaction
+c. Procedural programming - Statements
+d. OOP - Interaction of objects
+
+
+[D]
+
+a. Declarative
+b. Imperative
+c. Guido Van Russum
+d. Pythonists or Pythanistas
+
+ 
+
